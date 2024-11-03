@@ -1,2 +1,2 @@
 # BostonHacksProject
-Real-Time Video translation and Emotional deciphering
+Real-Time Video translation 
